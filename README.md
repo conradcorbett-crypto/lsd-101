@@ -22,7 +22,7 @@ lsd-101/
 │   └── utils.py            # Utility functions
 ├── notebooks/              # Interactive lab notebooks
 │   └── lsd-101.ipynb      # Main lab notebook
-├── part-1.md              # Setup and deployment instructions
+├── PART-1.md              # Setup and deployment instructions
 ├── requirements.txt       # Python dependencies
 ├── langgraph.json        # LangGraph configuration
 └── .env.example          # Environment variables template
@@ -40,7 +40,7 @@ lsd-101/
 
 ### Running the Lab
 
-1. **Follow the setup and deployment guide**: Start with [part-1.md](part-1.md) for detailed step-by-step instructions on:
+1. **Follow the setup and deployment guide**: Start with [PART-1.md](PART-1.md) for detailed step-by-step instructions on:
    - Setting up your local environment
    - Building and pushing your Docker image
    - Deploying to LangSmith
